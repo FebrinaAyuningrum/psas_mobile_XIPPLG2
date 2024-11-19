@@ -9,7 +9,7 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Selamat datang di Home!',
+          'Selamat Datang',
           style: TextStyle(fontSize: 24),
         ),
       ),
